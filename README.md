@@ -25,3 +25,9 @@ Although progress has been made by usage of glasses and implemented but in this 
 
 ## Hardware Block Diagram
 ![](./images/Hardware.png)
+
+## PCB Diagram
+![](./images/PCB.png)
+
+## Software Block Diagram
+![](./images/Software.png)
