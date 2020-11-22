@@ -24,4 +24,4 @@ Although progress has been made by usage of glasses and implemented but in this 
 - Servo and LED's
 
 ## Hardware Block Diagram
-![](https://user-images.githubusercontent.com/54103472/93881492-9cbfe000-fcfc-11ea-9a60-b7630897eae2.gif)
+![](./images/Hardware.png)
