@@ -35,3 +35,9 @@ Although progress has been made by usage of glasses and implemented but in this 
 
 ## Final Demonstration
 The final demonstration video is called "Final_Demonstration.mp4". Have a look at the prototype !
+
+## Real Time Applications
+Can be used to prevent accidents caused by drivers falling asleep.
+
+Can be used as headlight blinker which can be synchronised with the eye blinker for easy functionality.
+
