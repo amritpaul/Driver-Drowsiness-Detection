@@ -34,4 +34,4 @@ Although progress has been made by usage of glasses and implemented but in this 
 ![](./images/PCB.png)
 
 ## Final Demonstration
-![](./Final_Demonstration.mp4)
+The final demonstration video is called "Final_Demonstration.mp4". Have a look at the prototype !
